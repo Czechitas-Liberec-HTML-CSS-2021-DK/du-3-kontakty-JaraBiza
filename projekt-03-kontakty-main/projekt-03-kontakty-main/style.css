@@ -8,3 +8,35 @@ body {
 }
 
 /* ---------------------------------------------------- */
+
+h1 {
+	margin: 2rem;
+}
+
+.container {
+	margin: 2rem;
+	display: flex;
+	background-color: gainsboro;
+	border-radius: 10px;
+}
+
+.zena {
+	width: 22%;
+	background-color:white;
+	border-radius: 10px;
+	text-align: center;
+	margin:2rem;
+	padding: 2rem;
+	align-items: center;
+	justify-content: center;
+}
+
+img {
+	width: 150px;
+	border-radius: 50%;;
+}
+
+.ikona {
+	width: 35px;
+	margin: 5px;
+}
